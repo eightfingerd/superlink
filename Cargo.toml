@@ -1,0 +1,11 @@
+[package]
+name = "superlink"
+version = "0.0.1"
+authors = ["efd<eightfingerd@gmail.com>"]
+edition = "2018"
+license = "MIT"
+
+description = "a cloud link platform for everything."
+
+[dependencies]
+
